@@ -1,4 +1,4 @@
-.place__paragraph {
+.place__paragraf {
   margin: 0;
   padding: 0;
   font-family: 'Inter';
@@ -9,6 +9,6 @@
   margin-bottom: 24px;
 }
 
-.place__paragraph:last-of-type {
+.place__paragraf:last-of-type {
   margin-bottom: 0;
 }
